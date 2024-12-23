@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ECommerceDemo</string>
+    <string name="my_basket">My basket</string>
+    <string name="user">Hello Tony, </string>
+    <string name="home_description_for_user">What fruit salad \ncombo do you want today?</string>
+    <string name="search_for_fruit_salad_combos">Search for fruit salad combos</string>
+    <string name="recommended_combo">Recommended Combo</string>
+    <string name="go_back">Go back</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="coupon_code">Coupon Code</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="congratulation_description">Your order have been taken and is being attended to</string>
+    <string name="continue_shopping">Continue shopping</string>
+</resources>
